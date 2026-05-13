@@ -1,4 +1,4 @@
-## Deploying a Production-Ready 3-Tier Architecture on Azure using Terraform
+## Deploying a Production-Ready 3-Tier Architecture on Azure using Terraform with SIEM line app running on docker container
 
 **1. Introduction to the Architecture** [0:00](https://loom.com/share/ef86869a3e354a979b9c3b269c372f8e?t=0)
 
