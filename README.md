@@ -4,7 +4,7 @@
 
 ![generated-image-at-00:00:00](https://loom.com/i/c8a6618b328c4379abe78bb6becb6941?workflows_screenshot=true)
 
-- Presenter: Srojan
+- Presenter: Srujan
 - Overview of a production-ready 3-tier architecture deployed on Azure using Terraform.
 - Key design aspects: scalability, security, and high availability.
 
